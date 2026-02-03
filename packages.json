@@ -1,0 +1,13 @@
+{
+  "name": "roblox-esp-server",
+  "version": "1.0.0",
+  "description": "WebSocket server for Roblox ESP",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0",
+    "express": "^4.19.0"
+  }
+}
